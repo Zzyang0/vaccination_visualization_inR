@@ -10,8 +10,10 @@
 | Tzuyang Lin(Frank) | lin528@uw.edu |
 
 **ShinyappLink:** https://irisdin.shinyapps.io/final-project-IrisDin/
+
 **Alternatively, you can run pip install pip install -r requirements.txt
-** And run python app.py thus, access to the http://127.0.0.1:8050/
+
+** And run python app.py, thus, access to the http://127.0.0.1:8050/
 
 
 # Introduction：
