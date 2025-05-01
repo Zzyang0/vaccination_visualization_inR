@@ -12,8 +12,8 @@
 **ShinyappLink:** https://irisdin.shinyapps.io/final-project-IrisDin/
 
 **WebVersion:**
-*run pip install pip install -r requirements.txt
-*run python app.py
+-run pip install pip install -r requirements.txt
+-run python app.py
 **Webport:** http://127.0.0.1:8050/
 
 
